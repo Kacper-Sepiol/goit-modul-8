@@ -266,10 +266,6 @@ a {
 
 .footer {
     background-color: #2f303a;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    height: 603px;
 }
 
 .footer__logo {
@@ -278,5 +274,5 @@ a {
     font-family: var(--raleway);
     letter-spacing: 0.72px;
     color: white;
-    text-align: center;
+    margin-top: 20px;
 }
