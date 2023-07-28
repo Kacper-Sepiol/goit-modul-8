@@ -68,7 +68,7 @@ a {
 }
 
 .first-section {
-    background-image: url("./img/header-picture.jpg");
+    background-image: url("/img/header-picture.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     min-width: 320px;
