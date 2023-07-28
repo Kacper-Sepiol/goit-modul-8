@@ -1,0 +1,5 @@
+@media screen and (min-width: 480px) {
+    .footer__newsletter-form {
+        width: 450px;
+    }
+}
