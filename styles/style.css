@@ -65,6 +65,14 @@ a {
     display: none;
 }
 
+.header__email {
+    display: none;
+}
+
+.header__tel {
+    display: none;
+}
+
 .button__icon {
     background-color: initial;
     border: 0;
