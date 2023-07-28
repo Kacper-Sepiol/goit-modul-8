@@ -61,6 +61,10 @@ a {
     justify-content: space-between;
 }
 
+.header__list {
+    display: none;
+}
+
 .button__icon {
     background-color: initial;
     border: 0;
