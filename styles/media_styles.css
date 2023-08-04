@@ -148,6 +148,14 @@
         margin-right: 0;
     }
 
+    .our-customers-section__list-item:nth-child(4) {
+        margin-right: 30px;
+    }
+
+    .our-customers-section__list-item:nth-child(1) {
+        margin-right: 30px;
+    }
+
     .our-customers-section__list-item:nth-child(3) {
         margin-right: 0;
     }
