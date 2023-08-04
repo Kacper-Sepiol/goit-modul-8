@@ -3,6 +3,24 @@
     --roboto: "Roboto", sans-serif;
 }
 
+@media screen and (min-width: 480px) {
+    .our-customers-section__list-item:nth-child(1) {
+        margin-right: 30px;
+    }
+
+    .our-customers-section__list-item:nth-child(3) {
+        margin-right: 30px;
+    }
+
+    .our-customers-section__list-item:nth-child(5) {
+        margin-right: 30px;
+    }
+
+    .footer__newsletter-form {
+        width: 450px;
+    }
+}
+
 @media screen and (min-width: 768px) {
     .header {
         height: 80px;
@@ -124,5 +142,17 @@
     .our-team-section__list-users-item:nth-child(3) {
         margin-right: 30px;
         margin-top: 30px;
+    }
+
+    .our-customers-section__list-item:nth-child(1) {
+        margin-right: 0;
+    }
+
+    .our-customers-section__list-item:nth-child(3) {
+        margin-right: 0;
+    }
+
+    .our-customers-section__list-item:nth-child(5) {
+        margin-right: 0;
     }
 }
